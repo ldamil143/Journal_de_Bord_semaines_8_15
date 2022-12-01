@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+un jeu dans l'espace où tu peux construire ce que tu veux sur chaque planètes avec différentes créature.  
 
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
